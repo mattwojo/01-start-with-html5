@@ -1,6 +1,6 @@
-# UXE - Advanced HTML and Semantics
+# UXE - Principals of Advanced HTML5
 
-For this assignment, students will be required to produce a single static HTML page view that encompasses the properties of semantic HTML and illustrates the the HTML outline, used examples of Microdata, Microformats or RDF and includes concepts of ARIA.
+For this assignment, students will be required to produce a single static HTML page view that encompasses the properties of advanced HTML5 concepts as discussed in today's lecture.
 
 
 ## Submitting assignments
