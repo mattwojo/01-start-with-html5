@@ -1,23 +1,10 @@
-# UXE - Principals of Advanced HTML5
+# Semantic Principals of Advanced HTML5, Exploring Local Storage and AppCache
+This is a short exploration of applying Semantic HTML5 containers and utilizing Local Storage and AppCache. Craig Grant and Matt Wojciakowski contributed ideas and this project appears in several other iterations throughout our Code Fellows Cohort as a place of experimentation. I will post the various iterations here soon...
 
-For this assignment, students will be required to produce a single static HTML page view that encompasses the properties of advanced HTML5 concepts as discussed in today's lecture.
 
 
-## Submitting assignments
 
-Submitting assignments for this course will require leveraging some of the more advanced features of Github. These features will not only improve your knowledge of Git and Github, but also provide practice exercises for working on a distributed project with a large team.
-
-## How to submit an assignment
-
-In order to submit assignments, please use the following steps
-
-1. [Fork this repo][1] so that you have a working version
-1. [Clone the forked repo][2] to your local computer
-1. Create a folder named with your name, example `dale-sande`
-1. Once completed with your assignment, commit code to the master branch and push to Github `git push origin master`
-1. From __your fork__ of the project, initiate a pull request to the parent repo
-
-## Assignment review
+---Notes about GitHub----
 
 When a pull request is initiated, I will be notified of the update and comment on the submitted assignment via Github tools.
 
